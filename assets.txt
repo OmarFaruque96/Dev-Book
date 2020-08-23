@@ -1,0 +1,15 @@
+'Quicksand', sans-serif
+'Roboto', sans-serif
+
+primary color: #ed6524
+sec: #4c527d
+4px solid #f5a782
+
+font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+
+PSD -> 
+1. resource : img, icon, fonts, color
+
+1. project folder -> img, fonts, color  
